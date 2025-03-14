@@ -24,4 +24,4 @@ Bu proje, bilgisayar mühendisliği öğrencisi Oğuzhan Sarıgöl tarafından g
 
 
 
-Eğer açıklamada eklenmesi gereken başka bir detay varsa bildirebilirsiniz.
+![Swagger UI](taskManagerSwagger.png)
